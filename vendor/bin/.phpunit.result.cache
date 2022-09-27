@@ -1,0 +1,1 @@
+{"version":1,"defects":{"DojoTest::testCanBeUsedAsString":3,"DojoTest::testNegativeValues":3,"DojoTest::testIfStartIsSmallerThanEnd":3,"DojoTest::testEndIsSmallerThan10":3},"times":{"DojoTest::testCanBeUsedAsString":0.317,"DojoTest::testNegativeValues":0,"DojoTest::testIfStartIsSmallerThanEnd":0,"DojoTest::testEndIsSmallerThan10":0}}
